@@ -1,3 +1,7 @@
 # gitlearn
 # this is dev update
-# this is master update
+<<<<<<< HEAD
+# this is f1 update
+=======
+# this is f1 update
+>>>>>>> feature1
